@@ -1,0 +1,10 @@
+[04-Jul-2024 16:49:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'glpgdwcy_sambandh_user.users' doesn't exist in /home/glpgdwcy/gsbsamaj.in/index.php:15
+Stack trace:
+#0 /home/glpgdwcy/gsbsamaj.in/index.php(15): mysqli->query()
+#1 {main}
+  thrown in /home/glpgdwcy/gsbsamaj.in/index.php on line 15
+[04-Jul-2024 16:49:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'glpgdwcy_sambandh_user.users' doesn't exist in /home/glpgdwcy/gsbsamaj.in/index.php:15
+Stack trace:
+#0 /home/glpgdwcy/gsbsamaj.in/index.php(15): mysqli->query()
+#1 {main}
+  thrown in /home/glpgdwcy/gsbsamaj.in/index.php on line 15
